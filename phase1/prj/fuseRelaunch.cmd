@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/Asus/Desktop/phase 1 no assign/Phase 1/prj/ParityErrorChecker_isim_beh.exe" -prj "C:/Users/Asus/Desktop/phase 1 no assign/Phase 1/prj/ParityErrorChecker_beh.prj" "work.ParityErrorChecker" "work.glbl" 

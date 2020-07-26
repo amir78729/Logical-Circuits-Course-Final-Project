@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Asus/Desktop/Phase 1/prj/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Asus/Desktop/Phase 1/prj/xst"
+elaborate
+-ifn BloodTypeClassification.prj
+-ifmt mixed

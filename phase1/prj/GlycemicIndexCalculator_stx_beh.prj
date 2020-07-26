@@ -1,0 +1,6 @@
+verilog isim_temp "../MUX2_1.v"
+verilog isim_temp "../fullAdder.v"
+verilog isim_temp "../MUX2_1_8Bit.v"
+verilog isim_temp "../Adder8Bit.v"
+verilog isim_temp "../src/GlycemicIndexCalculator.v"
+verilog isim_temp "D:/xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
